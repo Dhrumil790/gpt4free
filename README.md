@@ -1,3 +1,5 @@
+# Yes Finally a free version
+
 # GPT4free - use ChatGPT, for free!!
 
 ##### You may join our discord server for updates and support ; ) 
